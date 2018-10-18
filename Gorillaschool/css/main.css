@@ -1,0 +1,30 @@
+* {
+    font-family: "Calibri", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#narrow {
+    max-width: 600px;
+}
+
+#between {
+    height: 50px;
+}
+
+input {
+    width: 250px;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+}
+
+.desc {
+    min-width: 125px;
+    display: inline-block;
+}
